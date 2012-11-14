@@ -1,0 +1,4 @@
+Wordbook
+========
+
+Rails Wordbook application
